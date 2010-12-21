@@ -1,11 +1,11 @@
 === Accept Signups ===
 Contributors: Kristoffer Hell (info@clearcrest.net)
 Tags: 
-Requires at least: 
-Tested up to: 
-Stable tag: 
+Requires at least: 3.0	
+Tested up to: 3.0
+Stable tag: 0.1
 
-Accept signups by email. Logs email, IP and timestamp. All data available from admin panel. Intended for use with external subscription services or your own email client.
+Accept signups by email. Data available from admin panel. Intended for use with external subscription services or your own email client.
 
 == Description ==
 
@@ -26,4 +26,10 @@ Upload the Accept Signups plugin to your blog. Activate it.
 
 Update options as required on the Accepts Signups panel under Settings.
 
+== Frequently Asked Questions ==
+
 == Changelog ==
+
+== Upgrade Notice == 
+
+== Screenshots ==
