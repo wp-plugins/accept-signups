@@ -1,0 +1,37 @@
+/**
+* Admin email list styles
+*/
+#acceptSignupsTable {
+	border-top:1px solid #989898;
+	border-left:1px solid #989898;
+	font-size: 0.9em;
+	text-align:left;
+}
+
+.acceptSignupsHeaderCell {
+	background:#f1f1f1;
+	color: #21759B;
+	border-left:1px solid #ffffff;
+	border-top:1px solid #ffffff;
+	border-right:1px solid #989898;
+	border-bottom:1px solid #989898;
+}
+
+.acceptSignupsCell {
+	background:#ffffff;
+	border-left:1px solid #ffffff;
+	border-top:1px solid #ffffff;
+	border-right:1px solid #989898;
+	border-bottom:1px solid #989898;
+}
+
+.acceptSignupsBottomCell{
+	border-left:1px solid #ffffff;
+	border-top:1px solid #ffffff;
+	border-right:1px solid #989898;
+	border-bottom:1px solid #989898;
+}
+
+#acceptSignupsTextarea {
+	font-size: 0.8em;
+}
