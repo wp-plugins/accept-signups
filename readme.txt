@@ -3,7 +3,7 @@ Contributors: Kristoffer Hell (info@clearcrest.net)
 Tags: 
 Requires at least: 3.0	
 Tested up to: 3.0
-Stable tag: 0.1
+Stable tag: 0.2
 
 Accept signups by email. Data available from admin panel. Intended for use with external subscription services or your own email client.
 
@@ -29,6 +29,8 @@ Update options as required on the Accepts Signups panel under Settings.
 == Frequently Asked Questions ==
 
 == Changelog ==
+
+0.2 Removed SQL injection vulnerability 
 
 == Upgrade Notice == 
 
