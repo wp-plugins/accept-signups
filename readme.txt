@@ -30,8 +30,6 @@ Update options as required on the Accepts Signups panel under Settings.
 
 == Changelog ==
 
-0.2 Removed SQL injection vulnerability 
-
 == Upgrade Notice == 
 
 == Screenshots ==
