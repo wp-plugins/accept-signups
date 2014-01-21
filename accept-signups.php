@@ -13,7 +13,7 @@
 */
 function acceptSignupsActivate() {
 	# add options..
-	update_option('accept-signups-message', 'Enter an email and press submit to signup to our newsletter');
+	update_option('accept-signups-message', 'Enter your email and press submit to signup to our newsletter');
 	update_option('accept-signups-submit-text', 'Submit');
 	update_option('accept-signups-email-field-size', '44');
 	update_option('accept-signups-error-message', 'Please enter a valid email..');
