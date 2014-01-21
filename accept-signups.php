@@ -3,8 +3,8 @@
 * Plugin Name: Accept Signups
 * Plugin URI: http://clearcrest.net
 * Description: Accept signups by email. Logs email, IP and timestamp. All data available from admin panel. Intended for use with external subscription services or your own email client.
-* Author: Kristoffer Hell (info@clearcrest.net)
-* Version: 0.2
+* Author: clearcrest
+* Version: 0.3
 * Author URI: http://clearcrest.net
 */
 
@@ -322,6 +322,5 @@ function deleteEmail($e) {
 	$q = "delete from " .$tbl . " where email = '" . $e . "';";
 	return $wpdb->query($q);
 } 
-
  
 ?>
