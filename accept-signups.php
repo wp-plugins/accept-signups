@@ -4,7 +4,7 @@
 * Plugin URI: http://clearcrest.net
 * Description: Accept signups by email. Logs email, IP and timestamp. All data available from admin panel. Intended for use with external subscription services or your own email client.
 * Author: clearcrest
-* Version: 0.3
+* Version: 0.4
 * Author URI: http://clearcrest.net
 */
 
