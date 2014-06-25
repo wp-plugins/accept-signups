@@ -2,8 +2,8 @@
 Contributors: clearcrest
 Tags: 
 Requires at least: 3.0	
-Tested up to: 3.8.1
-Stable tag: 0.3
+Tested up to: 3.9.1
+Stable tag: 0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,9 @@ Update options as required on the Accepts Signups panel under Settings.
 == Frequently Asked Questions ==
 
 == Changelog ==
+
+= 0.4 =
+* Updated to work with WP version 3.9.1
 
 = 0.3 =
 * Confirmed on WP version 3.8
